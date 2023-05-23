@@ -67,7 +67,7 @@ var curentlyLearning = {
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>ngocha-portfolio</b></a></td>
+      <td><a href="https://github.com/HiImHa/lunah-portfolio"><b>lunah-portfolio</b></a></td>
       <td>A compilation of outstanding works or products or things I enjoyed that I have worked or keep working</td>
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&?style=plastic"/></td>
   </tbody>
