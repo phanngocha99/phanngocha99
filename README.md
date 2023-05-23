@@ -27,7 +27,7 @@ My name is Ha - you can call me Lunah 🌙.
 ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=orange&logo=html5&logoColor=black&style=for-the-badge)
 ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=for-the-badge)
 ![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=for-the-badge)
-![JavaScript](https://img.shields.io/static/v1?label=&message=Service-Now&color=brightgreen&logo=now&logoColor=black&style=for-the-badge)
+![ServiceNow](https://img.shields.io/static/v1?label=&message=Service-Now&color=brightgreen&logo=now&logoColor=black&style=for-the-badge)
 
 ## Software
 
@@ -63,13 +63,19 @@ var curentlyLearning = {
       <td><b>🎁 Projects</b></td>
       <td><b>🌸 Descriptions</b></td>
       <td><b>⭐ Status</b></td>
+      <td><b> 🌻 Used</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/HiImHa/lunah-portfolio"><b>lunah-portfolio</b></a></td>
       <td>A compilation of outstanding works or products or things I enjoyed that I have worked or keep working</td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&?style=plastic"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
+      <td>
+        <img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=orange&logo=html5&logoColor=black&style=plastic"/>
+        <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=plastic"/>
+        <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=plastic"/>
+      </td>
   </tbody>
 </table>
 
