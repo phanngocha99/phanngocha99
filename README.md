@@ -55,12 +55,12 @@ var curentlyLearning = {
 };
 ```
 
-## Projects
+## Repositories
 
 <table>
   <thead>
     <tr>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Repos</b></td>
       <td><b>🌸 Descriptions</b></td>
       <td><b>⭐ Status</b></td>
       <td><b> 🌻 Used</b></td>
