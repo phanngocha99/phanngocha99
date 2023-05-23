@@ -87,7 +87,8 @@ var curentlyLearning = {
 Let's contact and discuss about\
 ...algorithms, programming languages, web development,\
 ...or science ,astronomy, music, art \
-...or just make a game of chess 😎\
+...or just make a game of chess 😎
+
 👉 Contact me via &nbsp;&nbsp;&nbsp;
 <span><a href="mailto:ngochaphan.work@gmail.com">
     <img height="32" alt="Mail" src="img/gmail.png"> 
