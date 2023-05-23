@@ -5,7 +5,7 @@ My name is Ha - you can call me Lunah 🌙.
 
 > "The question is not what have you done in this world but the question is, what can you do to make people believe that you have done?" - As Sherlock Holmes said.
 
-<img align='right' src="img/pixel-girl-in-room.gif">
+<img padding="20px" align='right' src="img/pixel-girl-in-room.gif" weight="200px" height="200px">
 
 ## A little about me
 
