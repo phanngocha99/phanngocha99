@@ -2,40 +2,39 @@
 
 Welcome to my page! 🤞\
 My name is Ha - you can call me Lunah 🌙.
+
 > "The question is not what have you done in this world but the question is, what can you do to make people believe that you have done?" - As Sherlock Holmes said.
 
 <img align='right' src="img/pixel-girl-in-room.gif">
 
-# A little about me
+## A little about me
 
 🎀 Pronouns: "she" | "her".\
 ♏ I'm a Scorpio.\
-♟ Chess, 🔭 Astronomy, 💫 Science, 📚 Books, 🎨 Design, 🎶 Music are my hobbies.\
-🍀 I like flowers 🌻🌹🪴🌼🌷🍁One of my dreams is to have a flower garden.
+♟ Chess, 🔭 Astronomy, 💫 Science, 📚 Books, 🎨 Design are my hobbies.\
+🍀 I like flowers. One of my dreams is to have a flower garden.
 
-# Education & Works
+## Education & Works
 
-👩‍🎓Bachelor of Physics at [University of Sciene - Vietnam National University][hcmus].\
+🎓Bachelor of Physics at [University of Sciene - Vietnam National University][hcmus].\
 💼Technical Consultant at [DXC Technology][dxc].
 
 [hcmus]: https://www.hcmus.edu.vn/
 [dxc]: https://dxc.com/us/en
 
-
-
-# Technical Skills
+## Technical Skills
 
 ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=orange&logo=html5&logoColor=black&style=for-the-badge)
 ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=for-the-badge)
 ![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=for-the-badge)
 ![JavaScript](https://img.shields.io/static/v1?label=&message=Service-Now&color=brightgreen&logo=now&logoColor=black&style=for-the-badge)
 
-# Software
+## Software
 
 ![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual-Studio-Code&color=blue&logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Adobe Illustrator](https://img.shields.io/static/v1?label=&message=Adobe-Illustrator&color=yellow&logo=adobeillustrator&logoColor=white&style=for-the-badge)
 
-# Challenges
+## Challenges
 
 🎯 Challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"\
 🌟 Achievement: Coming soon
@@ -56,7 +55,7 @@ var curentlyLearning = {
 };
 ```
 
-# Projects
+## Projects
 
 <table>
   <thead>
@@ -74,7 +73,12 @@ var curentlyLearning = {
   </tbody>
 </table>
 
-# Contacts
+## GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HiImHa&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HiImHa&layout=compact&langs_count=8&hide=css,html&theme=omni"/>
+
+## Contacts
 
 <b>📌 Looking for a software engineering intern?
 <a href="https://www.linkedin.com">Let's connect and talk!</a>
@@ -83,11 +87,11 @@ var curentlyLearning = {
 Let's contact and discuss about\
 ...algorithms, programming languages, web development,\
 ...or science ,astronomy, music, art \
-...or just make a game of chess 😎
-
-<a href="mailto:hangocphan.work@gmail.com">
+...or just make a game of chess 😎\
+👉 Contact me via &nbsp;&nbsp;&nbsp;
+<span><a href="mailto:hangocphan.work@gmail.com">
     <img height="32" alt="Mail" src="img/gmail.png"> 
 </a>&nbsp;&nbsp;&nbsp;
-<span><a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/">
     <img height="32" alt="LinkedIn" src="img/linkedin.png" />
 </a></span>
