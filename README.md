@@ -76,7 +76,7 @@ var curentlyLearning = {
 ## GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HiImHa&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HiImHa&layout=compac&langs_count=8t&theme=omni"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HiImHa&layout=compact&langs_count=8t&theme=omni"/>
 
 ## Contacts
 
