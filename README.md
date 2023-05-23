@@ -68,6 +68,14 @@ var curentlyLearning = {
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/HiImHa/hiimha"><b>HiImHa</b></a></td>
+      <td>README profile - Information to include in my profile , so I have full control over how I present myself on GitHub.</td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
+      <td>
+        <img  src="https://img.shields.io/static/v1?label=&message=Markdown&color=white&logo=markdown&logoColor=black&style=plastic"/>
+      </td>
+     </tr>
+    <tr>
       <td><a href="https://github.com/HiImHa/lunah-portfolio"><b>lunah-portfolio</b></a></td>
       <td>A compilation of outstanding works or products or things I enjoyed that I have worked or keep working</td>
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
@@ -76,6 +84,7 @@ var curentlyLearning = {
         <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=plastic"/>
         <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=plastic"/>
       </td>
+     </tr>
   </tbody>
 </table>
 
