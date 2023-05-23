@@ -96,3 +96,6 @@ Let's contact and discuss about\
 <a href="https://www.linkedin.com/">
     <img height="32" alt="LinkedIn" src="img/linkedin.png" />
 </a></span>
+
+<img src="https://komarev.com/ghpvc/?username=hiimha&color=ff69b4&?style=flat)" />
+
