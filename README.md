@@ -89,7 +89,7 @@ Let's contact and discuss about\
 ...or science ,astronomy, music, art \
 ...or just make a game of chess 😎\
 👉 Contact me via &nbsp;&nbsp;&nbsp;
-<span><a href="mailto:hangocphan.work@gmail.com">
+<span><a href="mailto:ngochaphan.work@gmail.com">
     <img height="32" alt="Mail" src="img/gmail.png"> 
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/">
