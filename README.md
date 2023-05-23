@@ -1,6 +1,6 @@
 # Hi, I'm Ha 👋
 
-Welcome to my page! 🤞\
+Welcome to my page!\
 My name is Ha - you can call me Lunah 🌙.
 
 > "The question is not what have you done in this world but the question is, what can you do to make people believe that you have done?" - As Sherlock Holmes said.
