@@ -11,8 +11,8 @@ My name is Ha - you can call me Lunah 🌙.
 
 🎀 Pronouns: "she" | "her".\
 ♏ I'm a Scorpio.\
-♟ Chess, 🔭 Astronomy, 💫 Science, 📚 Books, 🎨 Design are my hobbies.\
-🍀 I like flowers. One of my dreams is to have a flower garden.
+♟ Chess, 💫 Science, 📚 Books, 🎨 Art are my hobbies.\
+🌺 I like flowers.🍀One of my dreams is to have a flower garden.
 
 ## Education & Works
 
