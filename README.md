@@ -96,7 +96,7 @@ var curentlyLearning = {
 ## Contacts
 
 <b>📌 Looking for a software engineering intern?
-<a href="https://www.linkedin.com">Let's connect and talk!</a>
+<a href="https://www.linkedin.com/in/ngoc-ha-phan-a67a5b277/">Let's connect and talk!</a>
 </b>
 
 Let's contact and discuss about\
@@ -108,7 +108,7 @@ Let's contact and discuss about\
 <span><a href="mailto:ngochaphan.work@gmail.com">
     <img height="32" alt="Mail" src="img/gmail.png"> 
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ngoc-ha-phan-a67a5b277/">
     <img height="32" alt="LinkedIn" src="img/linkedin.png" />
 </a></span>
 
