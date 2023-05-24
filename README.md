@@ -16,7 +16,7 @@ My name is Ha - you can call me Lunah 🌙.
 
 ## Education & Works
 
-🎓Bachelor of Physics at [University of Sciene - Vietnam National University][hcmus].\
+🎓Bachelor of Applied Physics at [University of Sciene - Vietnam National University][hcmus].\
 💼Technical Consultant at [DXC Technology][dxc].
 
 [hcmus]: https://www.hcmus.edu.vn/
