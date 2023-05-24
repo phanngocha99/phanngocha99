@@ -112,5 +112,5 @@ Let's contact and discuss about\
     <img height="32" alt="LinkedIn" src="img/linkedin.png" />
 </a></span>
 
-<img src="https://komarev.com/ghpvc/?username=hiimha&color=ff69b4&?style=flat)" />
+<img src="https://komarev.com/ghpvc/?username=hiimha&color=ff69b4&?style=flat" />
 
