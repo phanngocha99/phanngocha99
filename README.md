@@ -158,7 +158,7 @@ Let's contact and discuss about\
 <span><a href="mailto:ngochaphan.work@gmail.com">
     <img height="32" alt="Mail" src="img/gmail.png"> 
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://hiimha.github.io/lunah-portfolio/">
+<a href="https://www.linkedin.com/in/ha-phan-ngoc-lunah/">
     <img height="32" alt="LinkedIn" src="img/linkedin.png" />
 </a></span>
 
