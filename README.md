@@ -3,7 +3,7 @@
 Welcome to my page!\
 My name is Ha - you can call me Lunah 🌙.\
 My website porfolio:
-<a href="https://www.linkedin.com/in/ngoc-ha-phan-a67a5b277/"> Here!</a>
+<a href="https://hiimha.github.io/lunah-portfolio/"> Here!</a>
 
 > "The question is not what have you done in this world but the question is, what can you do to make people believe that you have done?" - As Sherlock Holmes said.
 
