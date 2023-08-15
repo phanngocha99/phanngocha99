@@ -147,7 +147,7 @@ My website porfolio:
 ## Contacts
 
 📌 Looking for a software engineering intern?
-<a href="https://www.linkedin.com/in/ngoc-ha-phan-a67a5b277/">Let's connect and talk!</a>
+<a href="https://www.linkedin.com/in/ha-phan-ngoc-lunah/">Let's connect and talk!</a>
 
 Let's contact and discuss about\
 ...algorithms, programming languages, web development,\
