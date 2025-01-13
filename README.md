@@ -6,8 +6,6 @@ Welcome to my GitHub!\
 
 ## 🌻 A little about me
 
-<img padding="30px" align='right' src="img/pixel-girl-in-room.gif" weight="200px" height="200px">
-
 💼 I am a web developer specializing in both frontend and backend development.\
 📌I studying for Bachelor Science in Information Technology at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University</a>\
 🎓I graduated with Bachelor Science in Physics at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University </a>\
@@ -46,6 +44,8 @@ Welcome to my GitHub!\
 ![Auth0](https://img.shields.io/static/v1?label=&message=auth0&color=black&logo=auth0&logoColor=white&style=for-the-badge)
 ![JWTs](https://img.shields.io/static/v1?label=&message=JWTs&color=gray&logo=jwts&logoColor=white&style=for-the-badge)
 ![Role-Based Access Control](https://img.shields.io/static/v1?label=&message=Role-Based-Access-Control&color=black&logo=jwts&logoColor=white&style=for-the-badge)
+
+<img padding="30px" align='right' src="img/pixel-girl-in-room.gif" weight="200px" height="200px">
 
 #### 📌 Others
 
