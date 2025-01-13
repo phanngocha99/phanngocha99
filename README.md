@@ -6,7 +6,7 @@ Welcome to my GitHub!\
 
 ## 🌻 A little about me
 
-<img padding="30px" align='right' src="img/pixel-girl-in-room.gif" weight="100px" height="100px">
+<img padding="30px" align='right' src="img/pixel-girl-in-room.gif" weight="200px" height="200px">
 
 💼 I am a web developer specializing in both frontend and backend development.\
 📌I studying for Bachelor Science in Information Technology at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University</a>\
@@ -16,7 +16,7 @@ Welcome to my GitHub!\
 
 ## 🌻 Technical Skills
 
-### 📌 Front-end
+#### 📌 Front-end
 
 ![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=orange&logo=html&logoColor=black&style=for-the-badge)
 ![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=blue&logo=css&logoColor=black&style=for-the-badge)
@@ -25,7 +25,7 @@ Welcome to my GitHub!\
 ![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=for-the-badge)
 ![Webpack](https://img.shields.io/static/v1?label=&message=webpack-buildtool&color=orange&logo=webpack&logoColor=black&style=for-the-badge)
 
-### 📌 Back-end
+#### 📌 Back-end
 
 ![Express](https://img.shields.io/static/v1?label=&message=express&color=yellow&logo=express&logoColor=white&style=for-the-badge)
 ![NodeJS](https://img.shields.io/static/v1?label=&message=nodejs&color=green&logo=nodedotjs&logoColor=white&style=for-the-badge)
@@ -33,7 +33,7 @@ Welcome to my GitHub!\
 ![Flask](https://img.shields.io/static/v1?label=&message=flask&color=cyan&logo=flask&logoColor=black&style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/static/v1?label=&message=SQLAlchemy&color=black&logo=SQLAlchemy&logoColor=white&style=for-the-badge)
 
-### 📌 Database Management System
+#### 📌 Database Management System
 
 ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue&logo=PostgreSQL&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=cyan&logo=MySQL&logoColor=black&style=for-the-badge)
@@ -41,13 +41,13 @@ Welcome to my GitHub!\
 ![Migration](https://img.shields.io/static/v1?label=&message=Relational-Database-Migration&color=black&logo=&logoColor=black&style=for-the-badge)
 ![Object-Relational-Mapping](https://img.shields.io/static/v1?label=&message=Object-Relational-Mapping&color=black&logo=&logoColor=black&style=for-the-badge)
 
-### 📌 Authentication
+#### 📌 Authentication
 
 ![Auth0](https://img.shields.io/static/v1?label=&message=auth0&color=black&logo=auth0&logoColor=white&style=for-the-badge)
 ![JWTs](https://img.shields.io/static/v1?label=&message=JWTs&color=gray&logo=jwts&logoColor=white&style=for-the-badge)
 ![Role-Based Access Control](https://img.shields.io/static/v1?label=&message=Role-Based-Access-Control&color=black&logo=jwts&logoColor=white&style=for-the-badge)
 
-### 📌 Others
+#### 📌 Others
 
 ![ServiceNow](https://img.shields.io/static/v1?label=&message=Service-Now&color=brightgreen&logo=now&logoColor=black&style=for-the-badge)
 ![MarkDown](https://img.shields.io/static/v1?label=&message=MarkDown&color=black&logo=MarkDown&logoColor=white&style=for-the-badge)
