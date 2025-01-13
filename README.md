@@ -6,6 +6,8 @@ Welcome to my GitHub!\
 
 ## 🌻 A little about me
 
+<img padding="30px" align='right' src="img/pixel-girl-in-room.gif" weight="100px" height="100px">
+
 💼 I am a web developer specializing in both frontend and backend development.\
 📌I studying for Bachelor Science in Information Technology at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University</a>\
 🎓I graduated with Bachelor Science in Physics at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University </a>\
@@ -13,8 +15,6 @@ Welcome to my GitHub!\
 📄 Please have a look at <a href=""> My CV</a> for more details about me. I'm open to feedback and suggestions!
 
 ## 🌻 Technical Skills
-
-<img padding="30px" align='right' src="img/pixel-girl-in-room.gif" weight="200px" height="200px">
 
 ### 📌 Front-end
 
