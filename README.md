@@ -1,143 +1,66 @@
-# Hi, I'm Ha 👋
+# HiImHa - Hi I'm Ha👋
 
-Welcome to my page!\
-My name is Ha - you can call me Lunah 🌙.\
-My website porfolio:
-<a href="https://hiimha.github.io/lunah-portfolio/"> Here!</a>
+Welcome to my GitHub!\
+🌸 Visit My Website Porfolio Here:
+<a href=""> My Website Porfolio!</a> 🌸
 
-> "The question is not what have you done in this world but the question is, what can you do to make people believe that you have done?" - As Sherlock Holmes said.
+## 🌻 A little about me
 
-<img padding="20px" align='right' src="img/pixel-girl-in-room.gif" weight="200px" height="200px">
+💼 I am a web developer specializing in both frontend and backend development.\
+📌I studying for Bachelor Science in Information Technology at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University</a>\
+🎓I graduated with Bachelor Science in Physics at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University </a>\
+♟ Chess, 💫 Science, 📚 Books, are my hobbies.\
+📄 Please have a look at <a href=""> My CV</a> for more details about me. I'm open to feedback and suggestions!
 
-## A little about me
+## 🌻 Technical Skills
 
-🎀 Pronouns: "she" | "her".\
-♏ I'm a Scorpio.\
-♟ Chess, 💫 Science, 📚 Books, 🎨 Art are my hobbies.\
-🌺 I like flowers.🍀One of my dreams is to have a flower garden.
+<img padding="30px" align='right' src="img/pixel-girl-in-room.gif" weight="200px" height="200px">
 
-## Education & Works
+### 📌 Front-end
 
-🎓Bachelor of Applied Physics at [University of Sciene - Vietnam National University][hcmus].\
-💼Technical Consultant at [DXC Technology][dxc].
-
-[hcmus]: https://www.hcmus.edu.vn/
-[dxc]: https://dxc.com/us/en
-
-## Technical Skills
-
-![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=orange&logo=html5&logoColor=black&style=for-the-badge)
-![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=for-the-badge)
-![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=for-the-badge)
-![ServiceNow](https://img.shields.io/static/v1?label=&message=Service-Now&color=brightgreen&logo=now&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=orange&logo=html&logoColor=black&style=for-the-badge)
+![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=blue&logo=css&logoColor=black&style=for-the-badge)
+![SCSS](https://img.shields.io/static/v1?label=&message=scss&color=pink&logo=scss&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/static/v1?label=&message=react&color=blue&logo=react&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/static/v1?label=&message=mongodb&color=green&logo=mongodb&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=for-the-badge)
+![Webpack](https://img.shields.io/static/v1?label=&message=webpack-buildtool&color=orange&logo=webpack&logoColor=black&style=for-the-badge)
+
+### 📌 Back-end
+
 ![Express](https://img.shields.io/static/v1?label=&message=express&color=yellow&logo=express&logoColor=white&style=for-the-badge)
 ![NodeJS](https://img.shields.io/static/v1?label=&message=nodejs&color=green&logo=nodedotjs&logoColor=white&style=for-the-badge)
-![npm](https://img.shields.io/static/v1?label=&message=npm&color=red&logo=npm&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/static/v1?label=&message=python&color=blue&logo=python&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/static/v1?label=&message=flask&color=cyan&logo=flask&logoColor=black&style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/static/v1?label=&message=SQLAlchemy&color=black&logo=SQLAlchemy&logoColor=white&style=for-the-badge)
 
+### 📌 Database Management System
 
-## Software
+![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=blue&logo=PostgreSQL&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=cyan&logo=MySQL&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/static/v1?label=&message=mongodb&color=green&logo=mongodb&logoColor=white&style=for-the-badge)
+![Migration](https://img.shields.io/static/v1?label=&message=Relational-Database-Migration&color=black&logo=&logoColor=black&style=for-the-badge)
+![Object-Relational-Mapping](https://img.shields.io/static/v1?label=&message=Object-Relational-Mapping&color=black&logo=&logoColor=black&style=for-the-badge)
 
-![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual-Studio-Code&color=blue&logo=visualstudiocode&logoColor=white&style=for-the-badge)
+### 📌 Authentication
+
+![Auth0](https://img.shields.io/static/v1?label=&message=auth0&color=black&logo=auth0&logoColor=white&style=for-the-badge)
+![JWTs](https://img.shields.io/static/v1?label=&message=JWTs&color=gray&logo=jwts&logoColor=white&style=for-the-badge)
+![Role-Based Access Control](https://img.shields.io/static/v1?label=&message=Role-Based-Access-Control&color=black&logo=jwts&logoColor=white&style=for-the-badge)
+
+### 📌 Others
+
+![ServiceNow](https://img.shields.io/static/v1?label=&message=Service-Now&color=brightgreen&logo=now&logoColor=black&style=for-the-badge)
+![MarkDown](https://img.shields.io/static/v1?label=&message=MarkDown&color=black&logo=MarkDown&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=orange&logo=Postman&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/static/v1?label=&message=docker&color=blue&logo=docker&logoColor=black&style=for-the-badge)
+![AWS CodeBuild](https://img.shields.io/static/v1?label=&message=AWS-CodeBuild-CI/CD&color=orange&logo=aws&logoColor=black&style=for-the-badge)
+![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=orange&logo=kubernetes&logoColor=black&style=for-the-badge)
+![Twillio](https://img.shields.io/static/v1?label=&message=Twillio&color=black&logo=Twillio&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=yellow&logo=Firebase&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/static/v1?label=&message=Visual-Studio-Code&color=cyan&logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/static/v1?label=&message=vercel&color=black&logo=vercel&logoColor=white&style=for-the-badge)
-![Adobe Illustrator](https://img.shields.io/static/v1?label=&message=Adobe-Illustrator&color=yellow&logo=adobeillustrator&logoColor=white&style=for-the-badge)
-
-
-## Repositories
-
-<table>
-  <thead>
-    <tr>
-      <td><b>🎁 Repos</b></td>
-      <td><b>🌸 Descriptions</b></td>
-      <td><b>⭐ Status</b></td>
-      <td><b> 🌻 Used</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/HiImHa/hiimha"><b>HiImHa</b></a></td>
-      <td>README profile - Information to include in my profile , so I have full control over how I present myself on GitHub.</td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
-      <td>
-        <img  src="https://img.shields.io/static/v1?label=&message=Markdown&color=white&logo=markdown&logoColor=black&style=plastic"/>
-      </td>
-     </tr>
-    <tr>
-      <td><a href="https://github.com/HiImHa/lunah-portfolio"><b>lunah-portfolio</b></a></td>
-      <td>A compilation of outstanding works or products or things I enjoyed that I have worked or keep working</td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
-      <td>
-        <img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=orange&logo=html5&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=plastic"/>
-      </td>
-     </tr>
-     <tr>
-      <td><a href="https://github.com/HiImHa/html-css-practice"><b>html-css-practice</b></a></td>
-      <td>HTML - CSS Practice: The collection of HTML/CSS templates during my practice and creation</td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
-      <td>
-        <img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=orange&logo=html5&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=plastic"/>
-      </td>
-     </tr>
-     <tr>
-      <td><a href="https://github.com/HiImHa/to-do-list"><b>to-do-list</b></a></td>
-      <td>To Do List Website</td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
-      <td>
-        <img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=orange&logo=html5&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=plastic"/>
-      </td>
-     </tr>
-     <tr>
-      <td><a href="https://github.com/HiImHa/weather-app"><b>weather-app</b></a></td>
-      <td>Weather app using open weather API</td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
-      <td>
-        <img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=orange&logo=html5&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=plastic"/>
-      </td>
-     </tr>
-     <tr>
-      <td><a href="https://github.com/HiImHa/tic-tac-toe"><b>tic-tac-toe</b></a></td>
-      <td>An interactive tic-tac-toe game with ReactJS</td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
-      <td>
-        <img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=orange&logo=html5&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=React&color=blue&logo=react&logoColor=black&style=plastic"/>  
-      </td>
-     </tr>
-     <tr>
-      <td><a href="https://github.com/HiImHa/outer-space"><b>outer-space</b></a></td>
-      <td>An Astronomy website</td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
-      <td>
-        <img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=orange&logo=html5&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=blue&logo=css3&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=javascript&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=React&color=blue&logo=react&logoColor=black&style=plastic"/>  
-      </td>
-     </tr>
-     <tr>
-      <td><a href="https://github.com/HiImHa/outer-space-api"><b>outer-space-api</b></a></td>
-      <td>An API server for Astronomy Outer-Space Website</td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=status&message=work-in-progress&color=blue&&style=for-the-badge"/></td>
-      <td>
-        <img  src="https://img.shields.io/static/v1?label=&message=Express&color=yellow&logo=express&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=MongoAtlas&color=green&logo=mongodb&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=NodeJS&color=green&logo=nodedotjs&logoColor=black&style=plastic"/>
-        <img src="https://img.shields.io/static/v1?label=&message=npm&color=red&logo=npm&logoColor=black&style=plastic"/>  
-      </td>
-     </tr>
-  </tbody>
-</table>
+![onRender](https://img.shields.io/static/v1?label=&message=onRender&color=black&logo=onRender&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/static/v1?label=&message=GitHub&color=black&logo=GitHub&logoColor=white&style=for-the-badge)
 
 ## GitHub Analytics
 
@@ -146,21 +69,15 @@ My website porfolio:
 
 ## Contacts
 
-📌 Looking for a software engineering intern?
+📌 Looking for a web developer?
 <a href="https://www.linkedin.com/in/ha-phan-ngoc-lunah/">Let's connect and talk!</a>
-
-Let's contact and discuss about\
-...algorithms, programming languages, web development,\
-...or science ,astronomy, music, art \
-...or just make a game of chess 😎
 
 👉 Contact me via &nbsp;&nbsp;&nbsp;
 <span><a href="mailto:ngochaphan.work@gmail.com">
-    <img height="32" alt="Mail" src="img/gmail.png"> 
+<img height="32" alt="Mail" src="img/gmail.png">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ha-phan-ngoc-lunah/">
-    <img height="32" alt="LinkedIn" src="img/linkedin.png" />
+<img height="32" alt="LinkedIn" src="img/linkedin.png" />
 </a></span>
 
 <img src="https://komarev.com/ghpvc/?username=hiimha&color=ff69b4&?style=flat" />
-
