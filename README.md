@@ -11,7 +11,6 @@ Welcome to my GitHub!\
 🎓I studying for Bachelor Science in Information Technology at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University</a>\
 🎓I graduated with Bachelor Science in Physics at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University </a>\
 ♟ Chess, 💫 Science, 📚 Books, are my hobbies.\
-📄 Please have a look at <a href=""> My CV</a> for more details about me. I'm open to feedback and suggestions!
 
 ## A little talkative
 📌I have experience in these fields with relevant skills such as:
