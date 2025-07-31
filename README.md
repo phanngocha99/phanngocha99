@@ -1,4 +1,4 @@
-# HiImHa - Hi I'm Ha👋
+# Phan Ngọc Hà - phanngocha99👋
 
 Welcome to my GitHub!\
 🌸 Visit My Website Porfolio Here:
