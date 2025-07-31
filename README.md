@@ -12,6 +12,7 @@ Welcome to my GitHub!\
 ♟ Chess, 💫 Science, 📚 Books, are my hobbies.\
 📄 Please have a look at <a href=""> My CV</a> for more details about me. I'm open to feedback and suggestions!
 
+## A little talkative
 📌I have experience in these fields with relevant skills such as:
 - Front-end Web: HTML - CSS | JavaScript | ReactJs/NextJs
 - Back-end Web: NodeJs/ExpressJs | Postgresql | MySQL | Restful API 
@@ -28,7 +29,7 @@ Welcome to my GitHub!\
 
 📌I am always looking forward to an insightful conversation over coffee
 - I want to talk about emerging tech, creating software products.
-- I enjoy hobbies like watching movies, reading books, and playing chess. 
+- I enjoy hobbies like watching movies, reading books, and playing chess.
 
 ## Technical Skills
 
