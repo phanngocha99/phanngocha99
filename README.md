@@ -3,6 +3,7 @@
 Welcome to my GitHub!\
 🌸 Visit My Website Porfolio Here:
 <a href=""> My Website Porfolio!</a> 🌸
+📄 Please have a look at <a href=""> My CV</a> for more details about me. I'm open to feedback and suggestions!
 
 ## A little about me
 
@@ -90,6 +91,7 @@ Welcome to my GitHub!\
 
 📌 Looking for a web developer?
 <a href="https://www.linkedin.com/in/phanngocha99/">Let's connect and talk!</a>
+📄 Please have a look at <a href=""> My CV</a> for more details about me. I'm open to feedback and suggestions!
 
 👉 Contact me via &nbsp;&nbsp;&nbsp;
 <span><a href="mailto:ngochaphan.work@gmail.com">
