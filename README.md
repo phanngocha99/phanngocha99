@@ -7,10 +7,28 @@ Welcome to my GitHub!\
 ## A little about me
 
 💼 I am a web developer specializing in both frontend and backend development.\
-📌I studying for Bachelor Science in Information Technology at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University</a>\
+🎓I studying for Bachelor Science in Information Technology at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University</a>\
 🎓I graduated with Bachelor Science in Physics at <a href="https://www.hcmus.edu.vn/"> University of Sciene - Vietnam National University </a>\
 ♟ Chess, 💫 Science, 📚 Books, are my hobbies.\
 📄 Please have a look at <a href=""> My CV</a> for more details about me. I'm open to feedback and suggestions!
+
+📌I have experience in these fields with relevant skills such as:
+- Front-end Web: HTML - CSS | JavaScript | ReactJs/NextJs
+- Back-end Web: NodeJs/ExpressJs | Postgresql | MySQL | Restful API 
+- ServiceNow: System Administrator | ITSM | HRSD | REST API | ATF
+
+📌I can successfully build and deliver projects.
+- I can conduct maintenance, development, and debugging tasks 
+- I can collaborate with third-party vendors and clients to ensure efficiency.
+- I can engage in a collaborative development process with a fellow developer
+- I can work under high pressure and learn new technology quickly.
+- I can propose solutions with a continuous improvement mindset.
+- I thrive in challenging situations and adapt quickly with strong problem-solving skills. 
+- I can work independently (as part of a global project team)
+
+📌I am always looking forward to an insightful conversation over coffee
+- I want to talk about emerging tech, creating software products.
+- I enjoy hobbies like watching movies, reading books, and playing chess. 
 
 ## Technical Skills
 
