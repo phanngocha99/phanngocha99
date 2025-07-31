@@ -64,20 +64,20 @@ Welcome to my GitHub!\
 
 ## GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HiImHa&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HiImHa&layout=compact&langs_count=8t&theme=omni"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=phanngocha99&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=phanngocha99&layout=compact&langs_count=8t&theme=omni"/>
 
 ## Contacts
 
 📌 Looking for a web developer?
-<a href="https://www.linkedin.com/in/ha-phan-ngoc-lunah/">Let's connect and talk!</a>
+<a href="https://www.linkedin.com/in/phanngocha99/">Let's connect and talk!</a>
 
 👉 Contact me via &nbsp;&nbsp;&nbsp;
 <span><a href="mailto:ngochaphan.work@gmail.com">
 <img height="32" alt="Mail" src="img/gmail.png">
 </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ha-phan-ngoc-lunah/">
+<a href="https://www.linkedin.com/in/phanngocha99/">
 <img height="32" alt="LinkedIn" src="img/linkedin.png" />
 </a></span>
 
-<img src="https://komarev.com/ghpvc/?username=hiimha&color=ff69b4&?style=flat" />
+<img src="https://komarev.com/ghpvc/?username=phanngocha99&color=ff69b4&?style=flat" />
