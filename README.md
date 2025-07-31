@@ -79,5 +79,3 @@ Welcome to my GitHub!\
 <a href="https://www.linkedin.com/in/phanngocha99/">
 <img height="32" alt="LinkedIn" src="img/linkedin.png" />
 </a></span>
-
-<img src="https://komarev.com/ghpvc/?username=phanngocha99&color=ff69b4&?style=flat" />
